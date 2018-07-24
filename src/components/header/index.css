@@ -1,0 +1,19 @@
+/*
+ * @Author: HideOnBush 
+ * @Date: 2018-07-20 20:35:32 
+ * @Last Modified by: HideOnBush
+ * @Last Modified time: 2018-07-24 16:46:29
+ */
+header{
+    height: 76px;
+    background: #fff;
+    margin-bottom: 40px;
+}
+.wrapper{
+    max-width: 1080px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
